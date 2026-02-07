@@ -508,6 +508,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - COCO Dataset team for benchmark data
 - MPII Human Pose Dataset contributors
 - Kendall & Gal for uncertainty quantification foundations
-- NVIDIA Research for infrastructure support
 
 ---
